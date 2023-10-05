@@ -67,7 +67,7 @@ export default async function Home() {
           Consider yourself invited to Pumpcon 2023... (cant touch this)
           </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Early Friday Night, October 20th till barely after midnight Sunday, October 22nd 2023 in a dungeon in Philly<br />
+          Early Friday Night, October 20th till barely after midnight Sunday, October 22nd 2023 in a dungeon in Philly<br /><br />
           Details to be announced in September along with the t-shirt design but expect us to be at the same bowling alley on Friday and same sex dungeon on Saturday as in 2022...
           </p>
           <div className="mt-6 flex gap-6">
